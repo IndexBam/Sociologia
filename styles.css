@@ -1,0 +1,77 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navigation {
+    background-color: #c4170c;
+    color: white;
+    margin-bottom: 30px;
+}
+.navigation h2 {
+    background-color: #b0140a;
+}
+.titulo-artigo {
+  
+}
+
+.titulo-artigo h1 {
+    margin-left: 120px;
+    margin-right: 120px;
+    font-size: 48px;
+}
+
+.titulo-artigo h2 {
+    margin-left: 140px;
+    margin-right: 140px;
+    font-size: 18px;
+    color: #484848;
+}
+
+.content {
+    width: 600px; 
+    margin: auto;
+    text-align: left;
+    margin-top: 50px;
+    margin-bottom: 200px;
+}
+.content img{
+    width: 600px;
+}
+.content h3{
+    font-size: 12px;
+    color:#484848; 
+}
+.content h4{
+    font-size: 20px;
+    margin-top: 70px;
+}
+.content p{
+    font-size: 18px;
+    line-height: 30px;
+    color:#484848; 
+}
+
+ul {
+    list-style: none;
+    padding: 0px;
+}
+a{
+    color: #484848;
+}
+li{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 16px;
+}
+h5{
+    font-size: 16px;
+    color: #484848;
+    margin-top: 50px;
+}
+figcaption {
+    font-size: 10px;
+}
+iframe {
+    margin-top: 30px;
+    margin-left: 0px;
+}
