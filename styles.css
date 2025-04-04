@@ -31,7 +31,7 @@ p {
 .content {
     width: 600px; 
     margin: auto;
-    text-align: left;
+    text-align: justify;
     margin-top: 50px;
     margin-bottom: 200px;
 }
