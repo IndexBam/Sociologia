@@ -10,8 +10,9 @@ body {
 .navigation h2 {
     background-color: #b0140a;
 }
-.titulo-artigo {
-  
+
+p{
+    text-align: justify;
 }
 
 .titulo-artigo h1 {
